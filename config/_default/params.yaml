@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: Ocean
+  theme_night: forest
   font: minimal
   font_size: L
 
@@ -49,6 +49,7 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  show_translations: true
 
 # Localization
 
@@ -65,10 +66,10 @@ features:
     theme_dark: dracula
   math:
     enable: false
-  privacy_pack:
+  privacy_pack: true
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/xiaoxiao-net123/love.git'
     content_dir: content
     branch: main
   avatar:
@@ -94,8 +95,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'google'
+    api_key: 'AIzaSyA-HRVdjD-93uSTjXXLojviz7c3dxnjOMs'
     zoom: 15
 
 # Extensions

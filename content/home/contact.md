@@ -25,32 +25,31 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: 2030528@tongji.edu.cn
+  phone: 86-021-13371852150
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: No.1239 Siping Road
+    city: Shanghai
+    region: Yangpu District
+    postcode: '200092'
+    country: China
+    country_code: CHN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '31.283420219669843'
+    longitude: '121.50080181050917'
+  directions: Office 107, First Laboratory Building
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - '8:00 to 21:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/chunhong_xiao'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://us05web.zoom.us'
 
 design:
   columns: '2'
