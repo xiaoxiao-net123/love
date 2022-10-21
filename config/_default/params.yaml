@@ -67,7 +67,7 @@ features:
   math:
     enable: false
   privacy_pack: true
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/xiaoxiao-net123/love.git'
     content_dir: content
