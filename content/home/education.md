@@ -32,8 +32,11 @@ experience:
     thsis: Study on rapid detection methods of carbamate pesticide residues in environmental water
     description: |2-
         Thesis: Study on rapid detection methods of carbamate pesticide residues in environmental water
+        
         Cumulative GPA: 4.54/5
+        
         Average Degree Course Score: 91.2/100
+        
         Relevant Courses:
         
         * Advances in Environmental Chemistry
@@ -55,7 +58,9 @@ experience:
     date_end: '2019-07-01'
     description: |2-
         Thesis: Environmental benefits of substrate improvement measures on hard substrate
+       
         Cumulative GPA: 3.81/4, ranking top 1 (totally 78 students)
+        
         Relevant Courses:
         
         * Air Pollution Control Engineering
