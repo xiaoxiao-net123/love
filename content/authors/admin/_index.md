@@ -55,7 +55,7 @@ social:
     icon_pack: fab
     link: https://github.com/xiaoxiao-net123
   - icon: wechat
-    icon_pack: fab
+    icon_pack: fas
     link: https://eturl.cn/vcfHYb
 
 # Link to a PDF of your resume/CV.
