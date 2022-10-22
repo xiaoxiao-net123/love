@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 50%
-    icon: riginlab-logo-vector
-    icon_pack: custom
+    icon: chart-line
+    icon_pack: fas
     name: Origin
   - description: 70%
-    icon: chart-line
+    icon: fa-light fa-chart-network
     icon_pack: fas
     name: VOSviewer
   - description: 10%
