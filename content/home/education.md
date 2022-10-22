@@ -31,16 +31,22 @@ experience:
     date_end: ''
     thsis: Study on rapid detection methods of carbamate pesticide residues in environmental water
     description: |2-
-        * Thesis: Study on rapid detection methods of carbamate pesticide residues in environmental water
+        Thesis: Study on rapid detection methods of carbamate pesticide residues in environmental water
         
-        * Cumulative GPA: 4.54/5
+        Cumulative GPA: 4.54/5
         
-        * Average Degree Course Score: 91.2/100
-        Responsibilities include:
+        Average Degree Course Score: 91.2/100
         
-        * Analysing
-        * Modelling
-        * Deploying
+        Relevant Courses:
+        
+        * Air Pollution Control Engineering
+        * Inorganic and Analytical Chemistry
+        * Instrumental Analysis
+        * Indoor Environmental Pollution and Prevention
+        * Environmental Monitoring
+        * Water Pollution Control Engineering
+
+
 
   - title: Professor of Semiconductor Physics
     company: University X
