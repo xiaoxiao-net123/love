@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Master of Environmental Science
-    school: GenCoin
-    school_url: ''
+    school: Tongji University
+    school_url: 'https://www.tongji.edu.cn/'
     school_logo: org-gc
     location: Shanghai
     date_start: '2020-09-01'
