@@ -10,8 +10,8 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Internship experience
-    url: '#internship experinece'
+  - name: Research
+    url: '#research'
     weight: 30
   - name: Talks
     url: '#talks'
