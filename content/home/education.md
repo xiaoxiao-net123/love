@@ -23,20 +23,39 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Master of Environmental Science
-    school: Tongji University
+    school: University Tongji 
     school_url: 'https://www.tongji.edu.cn/'
-    school_logo: org-gc
+    school_logo: org-tongji
     location: Shanghai
     date_start: '2020-09-01'
     date_end: ''
     thsis: Study on rapid detection methods of carbamate pesticide residues in environmental water
     description: |2-
         Thesis: Study on rapid detection methods of carbamate pesticide residues in environmental water
-        
         Cumulative GPA: 4.54/5
-        
         Average Degree Course Score: 91.2/100
+        Relevant Courses:
         
+        * Advances in Environmental Chemistry
+        * Numerical Simulation of Flow and Transfer Process
+        * Data Processing and Experiment Design
+        * Environmental System and Sustainable Development
+        * Wastewater Treatment Theory and Technology
+        * Regional Water Pollution System Planning
+       
+
+
+
+  - title: Bachelor of Environmental Science
+    school: University Huaibei Normal
+    school_url: 'https://www.chnu.edu.cn/'
+    school_logo: org-huaibei normal
+    location: Huaibei
+    date_start: '2015-09-01'
+    date_end: '2019-07-01'
+    description: |2-
+        Thesis: Environmental benefits of substrate improvement measures on hard substrate
+        Cumulative GPA: 3.81/4, ranking top 1 (totally 78 students)
         Relevant Courses:
         
         * Air Pollution Control Engineering
@@ -45,17 +64,6 @@ experience:
         * Indoor Environmental Pollution and Prevention
         * Environmental Monitoring
         * Water Pollution Control Engineering
-
-
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
