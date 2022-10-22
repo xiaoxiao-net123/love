@@ -25,7 +25,7 @@ experience:
   - title: Master of Environmental Science
     school: University Tongji 
     school_url: 'https://www.tongji.edu.cn/'
-    school_logo: org-tongji
+    :mortar_board:
     location: Shanghai
     date_start: '2020-09-01'
     date_end: ''
@@ -52,7 +52,7 @@ experience:
   - title: Bachelor of Environmental Science
     school: University Huaibei Normal
     school_url: 'https://www.chnu.edu.cn/'
-    school_logo: org-huaibei normal
+    :mortar_board:
     location: Huaibei
     date_start: '2015-09-01'
     date_end: '2019-07-01'
