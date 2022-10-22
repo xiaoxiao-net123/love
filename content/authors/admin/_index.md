@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:your-2030528@tongji.edu.cn"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chunhong_xiao
@@ -55,7 +55,7 @@ social:
     icon_pack: fab
     link: https://github.com/xiaoxiao-net123
   - icon: wechat
-    icon_pack: fas
+    icon_pack: fab
     link: https://eturl.cn/vcfHYb
 
 # Link to a PDF of your resume/CV.
