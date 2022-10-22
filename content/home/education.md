@@ -31,6 +31,11 @@ experience:
     date_end: ''
     thsis: Study on rapid detection methods of carbamate pesticide residues in environmental water
     description: |2-
+        * Thesis: Study on rapid detection methods of carbamate pesticide residues in environmental water
+        
+        * Cumulative GPA: 4.54/5
+        
+        * Average Degree Course Score: 91.2/100
         Responsibilities include:
         
         * Analysing
