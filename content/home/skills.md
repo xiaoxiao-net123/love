@@ -21,7 +21,7 @@ feature:
     icon_pack: fas
     name: Origin
   - description: 70%
-    icon: fa-chart-network
+    icon: chart-network
     icon_pack: fas
     name: VOSviewer
   - description: 10%
