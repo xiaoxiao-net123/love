@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 50%
-    icon: origin
+    icon: riginlab-logo-vector
     icon_pack: custom
     name: Origin
   - description: 70%
