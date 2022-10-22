@@ -17,6 +17,6 @@ zh:
     description: 有趣的灵魂
   menu:
     main:
-      - name: 中文
-       url: '#about'
-        weight: 1
+      name: 中文
+      url: '#about'
+      weight: 1
