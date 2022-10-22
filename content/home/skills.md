@@ -21,8 +21,8 @@ feature:
     icon_pack: fas
     name: Origin
   - description: 70%
-    icon: :heart:
-    icon_pack: emoji
+    icon: ":spider_web:"
+    icon_pack: "emoji"
     name: VOSviewer
   - description: 10%
     icon: camera-retro
