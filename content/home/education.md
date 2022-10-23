@@ -52,7 +52,7 @@ experience:
   - title: Bachelor of Environmental Science
     company: University Huaibei Normal
     company_url: 'https://www.chnu.edu.cn/'
-    company_logo: 
+    company_logo: org-x
     location: Huaibei
     date_start: '2015-09-01'
     date_end: '2019-07-01'
