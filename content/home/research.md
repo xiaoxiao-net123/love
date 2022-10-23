@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Interests
+title: Research
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: interests
+  page_type: presearch
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Environmrtal Science
-      tag: Environmrtal Science
-    - name: Big Data
-      tag: Big Data
+    - name: Pesticides Detection
+      tag: Pesticides Detection
+    - name: Occurrence of Pollutants
+      tag: Occurrence of Pollutants
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
