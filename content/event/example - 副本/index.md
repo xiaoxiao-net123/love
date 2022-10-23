@@ -1,24 +1,24 @@
 ---
-title: Internship
+title: Field Study
 
-event: Internship
+event: Field Study
 event_url: ''
 
-location: Huaibei
+location: Huangshan
 address:
-  street: 
-  city: Huaibei
+  street: Fuxi Village 
+  city: Huangshan
   region: 
-  postcode: '235000'
+  postcode: '245000'
   country: China
 
-summary: sewage treatment plant
-abstract: 'Huaibei sewage treatment plant: sewage treatment plant treatment facilities, process of sewage treatment'
+summary: Fuxi Village of Huangshan City
+abstract: 'Characteristics of vegetation and geographical environment in Fuxi Village of Huangshan City were investigated'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-09-01T15:00:00Z'
-date_end: '2018-10-01T15:00:00Z'
+date: '2017-05-20T15:00:00Z'
+date_end: '2017-05-27T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

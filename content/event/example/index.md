@@ -1,7 +1,7 @@
 ---
-title: Internship
+title: Sewage Treatment
 
-event: Internship
+event: Sewage Treatment
 event_url: ''
 
 location: Huaibei
