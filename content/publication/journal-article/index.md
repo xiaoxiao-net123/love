@@ -1,31 +1,31 @@
 ---
-title: A systematic review and meta-analysis of pollutants in environmental media
+title: "A systematic review and meta-analysis of environemtal pollutants"
 authors:
-- admin
+- Chunhong Xiao
 - Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: ""
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [""]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Environmental pollutants are ubiquitous in our environmental media leading to adverse effects on both humans and the environment. Given the limited research costs and methodological heterogeneity, an evidence-based review, particularly a systematic review and meta-analysis, performs a crucial function in assessing the pollution status of pollutants in environmental media at national and global scales. By bibliometric analysis and network analysis, the characteristics of papers were examined and visualized in our review. A need to expand the scope of studies was observed. This review concluded the basic procedures involved in a systematic review and meta-analysis, namely literature searching, screening of articles, study quality analysis, data extraction and synthesis, and meta-analysis. A meta-analysis typically comprises subgroup analysis, publication bias, sensitivity analysis, fixed- and/or random-effects meta-analysis, measurement of heterogeneity, and meta-regression. According to the different categories of pollutants, including non-biological and biological pollutants, the application of meta-analysis for the presence of contaminants in environmental media was specifically explored. Then, the innovative application of meta-analysis was presented and concluded encompassing method evaluation, transfer and fate of pollutants, etc. Furthermore, the frequent misuses and problems in a systematic review and meta-analysis were summarized. Finally, some suggestions for future research were proposed.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: The objectives of this review were (a) to examine the research status of a systematic review and meta-analysis associated with the pollution status of pollutants in environmental media; (b) to summarize detailed and fundamental steps for a systematic review and meta-analysis (c) to analyze the problems emerging in existing studies and put forward some suggestions for future research.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
