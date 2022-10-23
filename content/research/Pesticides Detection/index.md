@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-  - Deep Learning
+title: Pesticides Detection
+summary: Rapid detection methods of carbamate pesticide residues in environmental water.
+tags: Pesticides Detection
+  - 
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
