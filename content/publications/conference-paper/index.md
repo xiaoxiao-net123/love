@@ -37,7 +37,7 @@ summary: The objectives of this review were (a) to examine the research status o
 tags: []
 
 # Display this page in the Featured widget?
-publications: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
