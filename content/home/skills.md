@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 50%
-    icon: chart-line
-    icon_pack: fas
+    icon: data
+    icon_pack: custom
     name: Origin
   - description: 70%
-    icon: ":spider_web:"
-    icon_pack: "emoji"
+    icon: paint
+    icon_pack: custom
     name: VOSviewer
   - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: Python
+    icon_pack: custom
+    name: Python
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
