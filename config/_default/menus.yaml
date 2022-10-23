@@ -13,8 +13,8 @@ main:
   - name: Research
     url: '#research'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Internship
+    url: '#Internship'
     weight: 40
   - name: Publications
     url: '#featured'
