@@ -1,5 +1,5 @@
 ---
-title: Pesticides Detection
+title: Example Project
 summary: Rapid detection methods of carbamate pesticide residues in environmental water.
 tags: Deep Learning
   - 
