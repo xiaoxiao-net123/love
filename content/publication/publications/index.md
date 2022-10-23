@@ -29,7 +29,7 @@ summary: The objectives of this review were (a) to examine the research status o
 
 tags:
 - Source Themes
-publications: true
+featured: true
 
 # links:
 # - name: ""
