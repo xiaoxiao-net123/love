@@ -3,8 +3,7 @@ title: "A systematic review and meta-analysis of environemtal pollutants"
 authors:
 - Chunhong Xiao
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "main contribution"
 date: "2023-03-01T00:00:00Z"
 doi: ""
 
