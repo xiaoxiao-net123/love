@@ -1,7 +1,7 @@
 ---
 title: Pesticides Detection
 summary: Rapid detection methods of carbamate pesticide residues in environmental water.
-tags: Pesticides Detection
+tags: example
   - 
 date: '2016-04-27T00:00:00Z'
 
