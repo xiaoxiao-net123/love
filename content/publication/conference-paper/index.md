@@ -5,20 +5,20 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: [""]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
 abstract: Environmental pollutants are ubiquitous in our environmental media leading to adverse effects on both humans and the environment. Given the limited research costs and methodological heterogeneity, an evidence-based review, particularly a systematic review and meta-analysis, performs a crucial function in assessing the pollution status of pollutants in environmental media at national and global scales. By bibliometric analysis and network analysis, the characteristics of papers were examined and visualized in our review. A need to expand the scope of studies was observed. This review concluded the basic procedures involved in a systematic review and meta-analysis, namely literature searching, screening of articles, study quality analysis, data extraction and synthesis, and meta-analysis. A meta-analysis typically comprises subgroup analysis, publication bias, sensitivity analysis, fixed- and/or random-effects meta-analysis, measurement of heterogeneity, and meta-regression. According to the different categories of pollutants, including non-biological and biological pollutants, the application of meta-analysis for the presence of contaminants in environmental media was specifically explored. Then, the innovative application of meta-analysis was presented and concluded encompassing method evaluation, transfer and fate of pollutants, etc. Furthermore, the frequent misuses and problems in a systematic review and meta-analysis were summarized. Finally, some suggestions for future research were proposed.
@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,12 +64,5 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 
