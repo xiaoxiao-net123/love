@@ -11,6 +11,7 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
+  caption: 'network visualization of keywords'
+  resize_options: "250x250"
   image: ''
 ---
