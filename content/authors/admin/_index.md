@@ -22,10 +22,10 @@ bio: My research interests include environmental monitoring (air, water), detect
 
 # Interests to show in About widget
 interests:
-  - environemtal monitoring
-  - detection methods of pesticides
-  - pollution control and contaminant removal
-  - big data
+  - Environemtal Monitoring
+  - Detection Methods of Pesticides
+  - Pollution Control and Contaminant Removal
+  - Big Data
 
 # Education to show in About widget
 education:
@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
