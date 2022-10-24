@@ -31,10 +31,10 @@ interests:
 education:
   courses:
     - course: Master of Environmental Science
-      institution: Tongji University of Environmental Science and Engineering, Shanghai, P.R. China
+      institution: College of Environmental Science and Engineering, Tongji University, Shanghai, P.R. China
       date: 09/2020 - present
     - course: Bachelor of Environmental Science
-      institution: Huaibei Normal University of Life Science, Huaibei, P.R. China
+      institution: College of Life Science, Huaibei Normal University, Huaibei, P.R. China
       date: 09/2015 - 07/2019
 
 # Social/Academic Networking
@@ -74,7 +74,9 @@ highlight_name: true
 
 I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Science. I plan to finish school in June 2023.My research interests include environmental monitoring (water, air), detection methods of pesticides, pollution control and contaminant removal, and big data.
 
-Long-term participation in environmental monitoring research; More than one percent of inspiration and ninety-nine percent of sweat; Practical experience + Interdisciplinary knowledge reserve + Superb learning and adaptability 
+* Long-term participation in environmental monitoring research
+* More than one percent of inspiration and ninety-nine percent of sweat
+* Practical experience + Interdisciplinary knowledge reserve + Superb learning and adaptability 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
