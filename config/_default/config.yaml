@@ -49,6 +49,8 @@ outputs:
 imaging:
   resampleFilter: lanczos
   quality: 100
+  hint: text
+  bgColor: '#000000'
   anchor: smart
 timeout: 600000
 taxonomies:
