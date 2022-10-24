@@ -79,4 +79,4 @@ I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Sci
 * Practical experience + Interdisciplinary knowledge reserve + Superb learning and adaptability 
 
 
-{{< icon name="download" pack="fas" >}} Download my CV.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
