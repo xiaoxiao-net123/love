@@ -65,6 +65,7 @@ experience:
         
         * Air Pollution Control Engineering
         * Inorganic and Analytical Chemistry
+        * Organic Chemistry
         * Instrumental Analysis
         * Indoor Environmental Pollution and Prevention
         * Advanced Mathematics
