@@ -26,10 +26,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Atomospheric chemistry modeling
-      tag: Atomospheric chemistry modeling
-    - name: Machine learning
-      tag: Machine learning
+    - name: Atomospheric Chemistry Modeling
+      tag: Atomospheric Chemistry Modeling
+    - name: Machine Learning
+      tag: Machine Learning
     - name: Big Data
       tag: Big Data
 
