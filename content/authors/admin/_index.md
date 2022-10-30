@@ -22,8 +22,8 @@ bio: My research interests include atmospheric chemistry modeling, machine learn
 
 # Interests to show in About widget
 interests:
-  - Atmospehric chemistry modeling
-  - Machine learning
+  - Atmospehric Chemistry Modeling
+  - Machine Learning
   - Big Data
 
 # Education to show in About widget
@@ -76,5 +76,6 @@ I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Sci
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Statemet of Purpose.pdf" "newtab" >}}Statement of Purpose{{< /staticref >}}.
 
