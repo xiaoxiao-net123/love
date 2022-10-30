@@ -18,13 +18,12 @@ organizations:
     url: https://www.tongji.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include environmental monitoring (air, water), detection methods of pesticides, pollution control and contaminant removal, and big data.
+bio: My research interests include atmospheric chemistry modeling, machine learning, and big data.
 
 # Interests to show in About widget
 interests:
-  - Environemtal Monitoring
-  - Detection Methods of Pesticides
-  - Pollution Control and Contaminant Removal
+  - Atmospehric chemistry modeling
+  - Machine learning
   - Big Data
 
 # Education to show in About widget
@@ -54,9 +53,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/xiaoxiao-net123
-  - icon: wechat
-    icon_pack: fab
-    link: https://eturl.cn/vcfHYb
   - icon: cv
     icon_pack: ai
     link: uploads/CV.pdf
@@ -72,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Science. I plan to finish school in June 2023.My research interests include environmental monitoring (water, air), detection methods of pesticides, pollution control and contaminant removal, and big data.
+I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Science. I plan to finish school in June 2023. My research interests include atmospheric chemistry modeling, machine learning, and big data.
 
 * Long-term participation in environmental monitoring research
 * More than one percent of inspiration and ninety-nine percent of sweat
@@ -80,3 +76,5 @@ I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Sci
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Statemet of Purpose.pdf" "newtab" >}}Statement of Purpose{{< /staticref >}}.
+

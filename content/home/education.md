@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Master of Environmental Science
-    company: University Tongji 
+    company: Tongji University 
     company_url: 'https://www.tongji.edu.cn/'
     company_logo: org-x
     location: Shanghai
@@ -43,14 +43,14 @@ experience:
         * Numerical Simulation of Flow and Transfer Process
         * Data Processing and Experiment Design
         * Environmental System and Sustainable Development
-        * Wastewater Treatment Theory and Technology
+        * Frontiers in Environmental Science and Engineering
         * Regional Water Pollution System Planning
        
 
 
 
   - title: Bachelor of Environmental Science
-    company: University Huaibei Normal
+    company: Huaibei Normal University
     company_url: 'https://www.chnu.edu.cn/'
     company_logo: org-x
     location: Huaibei
@@ -67,8 +67,8 @@ experience:
         * Inorganic and Analytical Chemistry
         * Instrumental Analysis
         * Indoor Environmental Pollution and Prevention
-        * Environmental Monitoring
-        * Water Pollution Control Engineering
+        * Advanced Mathematics
+        * Linear Algebra
 
 design:
   columns: '2'

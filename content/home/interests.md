@@ -26,8 +26,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Environmental Monitoring
-      tag: Environmental Monitoring
+    - name: Atomospheric chemistry modeling
+      tag: Atomospheric chemistry modeling
+    - name: Machine learning
+      tag: Machine learning
     - name: Big Data
       tag: Big Data
 
