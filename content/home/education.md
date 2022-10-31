@@ -59,15 +59,14 @@ experience:
     description: |2-
         Thesis: Environmental benefits of substrate improvement measures on hard substrate
        
-        Cumulative GPA: 3.81/4, ranking top 1 (totally 78 students)
+        Cumulative GPA: 3.81/4, ranking top 1 (A total of 78 students)
         
         Relevant Courses:
         
         * Air Pollution Control Engineering
         * Inorganic and Analytical Chemistry
         * Organic Chemistry
-        * Instrumental Analysis
-        * Indoor Environmental Pollution and Prevention
+        * College Physics
         * Advanced Mathematics
         * Linear Algebra
 
