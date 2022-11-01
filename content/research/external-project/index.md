@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ''
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
 links:
   - icon: twitter
@@ -28,3 +28,14 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+* Slice of PE membrane
+* Cleanup of PE membrane
+* PE spiked by PRCs
+* Package of PE membrane
+* Mounting of PE membrane
+* Extract of PE membrane
+* Weight of PE membrane
+
+Despite the large amount of organic solvent exposure, I have to say it's a cool process. I also fell in love with the smell of acetone. 
+In the experiment, I seem to be an obsessive-compulsive person who must ensure the regularity of each piece of PE membrane to reduce the errors that exist during the experiment.
+This phase also allowed me to develop good experimental recording habits, including experimental plans, experimental process records, experimental summaries, and weekly experimental summaries.
