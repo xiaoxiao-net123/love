@@ -36,7 +36,7 @@ slides: example
 * Extract of PE membrane
 * Weight of PE membrane
 
-Despite the large amount of organic solvent exposure, I have to say it's a cool process. I also fell in love with the smell of acetone. 
+Despite the large amount of organic solvent exposure, I have to say it is a cool process. I also fell in love with the smell of acetone. 
 
 In the experiment, I seem to be an obsessive-compulsive person who must ensure the regularity of each piece of PE membrane to reduce the errors that exist during the experiment.
 
