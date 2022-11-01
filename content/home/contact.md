@@ -29,18 +29,17 @@ content:
   phone: 86-021-13371852150
   address:
     street: No.1239 Siping Road
-    city: Shanghai
-    region: Yangpu District
+    city: Yangpu District
+    region: Shanghai
     postcode: '200092'
     country: China
     country_code: CHN
   coordinates:
-    latitude: '31.283420219669843'
-    longitude: '121.50080181050917'
+    latitude: '31'
+    longitude: '121.5'
   directions: Office 107, First Laboratory Building
   office_hours:
     - '8:00 to 21:00'
-  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
