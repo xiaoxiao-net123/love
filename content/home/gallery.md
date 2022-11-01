@@ -14,9 +14,6 @@ subtitle:
 
 design:
   columns: '1'
----
-
-{{< gallery album="demo" >}}
 
 gallery_item:
 - album: assets/media/albums/demo/
@@ -43,4 +40,9 @@ gallery_item:
 - album: assets/media/albums/demo/
   image: <IMAGE 2 h>.jpg
   caption: Every day is beautiful
+---
+
+{{< gallery album="demo" >}}
+
+
 
