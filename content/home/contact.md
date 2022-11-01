@@ -36,7 +36,7 @@ content:
     country_code: CHN
   coordinates:
     latitude: '31.280779'
-    longitude: '31.280779, 121.504528'
+    longitude: '121.504528'
   directions: Office 107, First Laboratory Building
   office_hours:
     - '8:00 to 21:00'
