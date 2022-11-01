@@ -22,19 +22,19 @@ gallery_item:
 - album: assets/media/albums/demo/
   image: <IMAGE 2 b>.jpg
   caption: The girl with short hair
-  - album: assets/media/albums/demo/
+- album: assets/media/albums/demo/
   image: <IMAGE 1 c>.jpg
   caption: Hand-painted masks
 - album: assets/media/albums/demo/
   image: <IMAGE 2 d>.jpg
   caption: Tasty handmade sesame peanut candy
-  - album: assets/media/albums/demo/
+- album: assets/media/albums/demo/
   image: <IMAGE 1 e>.jpg
   caption: Roasted chestnuts
 - album: assets/media/albums/demo/
   image: <IMAGE 2 f>.jpg
   caption: Trip to the Oceanarium
-  - album: assets/media/albums/demo/
+- album: assets/media/albums/demo/
   image: <IMAGE 1 g>.jpg
   caption: The mystery of life
 - album: assets/media/albums/demo/
