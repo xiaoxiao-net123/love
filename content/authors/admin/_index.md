@@ -77,5 +77,5 @@ I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Sci
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Statemet of Purpose.pdf" "newtab" >}}Statement of Purpose{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Statement of Purpose.pdf" "newtab" >}}Statement of Purpose{{< /staticref >}}.
 
