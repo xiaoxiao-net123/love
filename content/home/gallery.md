@@ -17,29 +17,32 @@ design:
 
 gallery_item:
 - album: assets/media/albums/demo/
-  image: <IMAGE 1 a>.jpg
+  image: a.jpg
   caption: PE membrane immersed in round bottom bottle
 - album: assets/media/albums/demo/
-  image: <IMAGE 2 b>.jpg
+  image: b.jpg
   caption: The girl with short hair
 - album: assets/media/albums/demo/
-  image: <IMAGE 1 c>.jpg
+  image: c.jpg
   caption: Hand-painted masks
 - album: assets/media/albums/demo/
-  image: <IMAGE 2 d>.jpg
+  image: d.jpg
   caption: Tasty handmade sesame peanut candy
 - album: assets/media/albums/demo/
-  image: <IMAGE 1 e>.jpg
+  image: e.jpg
   caption: Roasted chestnuts
 - album: assets/media/albums/demo/
-  image: <IMAGE 2 f>.jpg
+  image: f.jpg
   caption: Trip to the Oceanarium
 - album: assets/media/albums/demo/
-  image: <IMAGE 1 g>.jpg
+  image: g.jpg
   caption: The mystery of life
 - album: assets/media/albums/demo/
-  image: <IMAGE 2 h>.jpg
+  image: h.jpg
   caption: Every day is beautiful
+- album: assets/media/albums/demo/
+  image: h.jpg
+  caption: The library at the end of the road
 ---
 
 {{< gallery album="demo" >}}
