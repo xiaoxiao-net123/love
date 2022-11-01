@@ -26,7 +26,7 @@ abstract: Environmental pollutants are ubiquitous in our environmental media lea
 summary: The objectives of this review were (a) to examine the research status of a systematic review and meta-analysis associated with the pollution status of pollutants in environmental media; (b) to summarize detailed and fundamental steps for a systematic review and meta-analysis (c) to analyze the problems emerging in existing studies and put forward some suggestions for future research.
 
 tags:
-- Submitted publications
+- Submitted Publications
 featured: true
 
 # links:
