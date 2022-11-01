@@ -17,8 +17,8 @@ abstract: 'Huaibei sewage treatment plant: sewage treatment plant treatment faci
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-09-01T15:00:00Z'
-date_end: '2018-12-01T15:00:00Z'
+date: '2018-09-03T15:00:00Z'
+date_end: '2018-11-09T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -31,7 +31,7 @@ tags: []
 # featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
@@ -59,3 +59,11 @@ slides: example
 projects:
   - example
 ---
+
+Main structures and equipment of wastewater treatment plants: thick grille and intake pump house, fine grating, rotating grit chamber, first stage oxidation ditch, primary sedimentation tank, aeration tank, secondary sedimentation tank
+
+Abnormalities in Sewage System Treatment:
+* Sludge Bulking
+* Sludge Disintegration
+* Sludge Decay
+* Sludge Rising
