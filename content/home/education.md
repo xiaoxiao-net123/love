@@ -71,5 +71,5 @@ experience:
         * Linear Algebra
 
 design:
-  columns: '1'
+  columns: '1.5'
 ---
