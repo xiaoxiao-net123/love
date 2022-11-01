@@ -29,7 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
+* Technical roadmap of my paper
 During my master's degree, I devote much time to my research to investigate the rapid detection methods of carbamate pesticide residues in environmental water. My study attaches more importance to practical application based on the instruments developed in our laboratory, determining the total residue of carbamate pesticides in water by color reaction.
 
 The research I am currently doing is mainly for practical applications. Although the experimental principle is relatively simple, there are relatively few references and studies available. My professor and I spent a long time to figure out the experimental methods. At present, I have completed the establishment of the research system, and subsequently, with the perfection of the experiment, I will also carry out patent application and thesis writing.
