@@ -31,7 +31,7 @@ tags: []
 # featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
@@ -59,3 +59,10 @@ slides: example
 projects:
   - example
 ---
+
+The internship in Huangshan is more like a fun wilderness adventure. We traveled among mountains and rivers and felt the nature. On the other side of the river are the monkeys that are alive and well, and the song of the creek is everywhere. So wonderful!
+
+One day, the teacher took us into a forest without roads, we can only rely on the surrounding trees upward climbing like monkeys. Given the physical condition of everyone, the teacher let us choose whether to continue forward. My buddies and I choose to continue to climb, but in the end, we stopped moving forward for everyone's safety. Although there were a little regret, but the process is still very good!
+
+
+
