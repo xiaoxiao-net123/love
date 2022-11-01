@@ -37,5 +37,7 @@ slides: example
 * Weight of PE membrane
 
 Despite the large amount of organic solvent exposure, I have to say it's a cool process. I also fell in love with the smell of acetone. 
+
 In the experiment, I seem to be an obsessive-compulsive person who must ensure the regularity of each piece of PE membrane to reduce the errors that exist during the experiment.
+
 This phase also allowed me to develop good experimental recording habits, including experimental plans, experimental process records, experimental summaries, and weekly experimental summaries.
